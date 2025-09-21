@@ -229,7 +229,7 @@ ER_ID|Name|Priority
 
 ## 👨‍💻 Author
 
-**[gemchristianolazo]**  
+**[gemchristianlazo]**  
 _C++ Hospital Patient Management System — for educational use._
 
 ---
