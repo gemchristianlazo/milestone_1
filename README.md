@@ -229,7 +229,7 @@ ER_ID|Name|Priority
 
 ## 👨‍💻 Author
 
-**gemchristianolazo**  
+**[gemchristianolazo]**  
 _C++ Hospital Patient Management System — for educational use._
 
 ---
@@ -238,4 +238,3 @@ _C++ Hospital Patient Management System — for educational use._
 
 - This project is for **educational purposes only**.  
 - Not intended for actual hospital or medical use.  
-- Add a license (e.g., MIT) if publishing to GitHub.
