@@ -183,7 +183,7 @@ ER_ID|Name|Priority
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hospital-patient-system.git
+   git clone https://github.com/gemchristianlazo/hospital-patient-system.git
    cd hospital-patient-system
    ```
 
@@ -229,7 +229,7 @@ ER_ID|Name|Priority
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**gemchristianolazo**  
 _C++ Hospital Patient Management System — for educational use._
 
 ---
